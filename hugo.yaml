@@ -59,7 +59,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "chengxu0920"
+  title: "Chengxu Tang"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -134,9 +134,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "chengxu0920."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    title: "Chengxu Tang."
+    subtitle: "Electrical and Computer Engineering"
+    content: "A passionate IC designer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -182,15 +182,15 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Hardware Engineer Intern"
+        company: "Lenovo"
+        companyUrl: "https://www.lenovo.com/us/en/"
+        date: "Jun 2024 - Sep 2024"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I worked as a Hardware Engineer Intern last summer in Bejing, China."
 
       - job: "Software Developer"
         company: "Amazon"
