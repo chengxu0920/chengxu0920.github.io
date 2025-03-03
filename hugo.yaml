@@ -136,7 +136,7 @@ params:
     intro: "Hi, my name is"
     title: "Chengxu Tang."
     subtitle: "Electrical and Computer Engineering"
-    content: "A passionate IC designer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    content: "I'm an IC design enthusiast with a strong focus on analog electronics and embedded systems. I enjoy exploring circuit design and system integration, applying modern technologies to develop efficient and reliable solutions."
     image: /images/头像.png
     bottomImage:
       enable: true
@@ -380,7 +380,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com
-      linkedin: https://linkedin.com
+      linkedin: www.linkedin.com/in/chengxu-tang-74b12a29a
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
