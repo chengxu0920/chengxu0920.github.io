@@ -137,7 +137,7 @@ params:
     title: "Chengxu Tang."
     subtitle: "Electrical and Computer Engineering"
     content: "A passionate IC designer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    image: /images/头像.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -161,7 +161,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/.头像.jpg"
+    image: "/images/.头像.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
 
