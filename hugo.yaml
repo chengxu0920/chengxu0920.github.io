@@ -192,10 +192,10 @@ params:
           url: "https://example.com"
         content: "I worked as a Hardware Engineer Intern last summer in Bejing, China."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Apprentice Intern"
+        company: "Alfa Laval"
+        companyUrl: "https://www.alfalaval.us"
+        date: "Jun 2023 - Sep 2023"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -203,28 +203,28 @@ params:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I worked as an apprentice engineer intern at Alfa Laval in Shanghai, China.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Gained hands-on experience in basic circuit assembly and testing, learning to work with resistors, capacitors, MOSFETs, and other analog components under the guidance of senior engineers.
+          - Assisted in functional verification of electrical systems, following test procedures to ensure proper circuit operation and documenting test results.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
+      - job: "Teaching Assistant"
+        company: "Santa Clara University"
         companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+        date: "Sep 2024 - Mar 2025"
         info:
           enable: false
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I am currently working as a Teaching Assistant at Santa Clara University. I am the TA and Grader for the PHYS12 and PHYS32 courses.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Grade students' assignments.
+          - Give students suggestions on their homework.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
+      - job: "Frontend Developer"
+        company: "Stealth Startup"
         companyUrl: "https://example.com"
         date: "June 2017 - Nov 2019"
         featuredLink:
@@ -233,11 +233,11 @@ params:
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
+          - Established a company website using JavaScript, achieving a 30% increase in page load speed through advanced optimization techniques, including code splitting and lazy loading.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
+      - job: "Research Assistant"
+        company: "Santa Clara University"
         companyUrl: "https://example.com"
         date: "Feb 2016 - Mar 2017"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
@@ -255,19 +255,19 @@ params:
         date: "2023 - present"
         GPA: "3.92 out of 4.00"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Honors & Awards
+            - Alpha Sigma Nu - the honor society of Jesuit colleges and universities.
+            - Tau Beta PI Member.
       - title: "High School"
         school:
           name: "Chengdu Experimental Foreign Languages School"
-          url: "https://example.org"
+          url: "https://www.cefls.cn"
         date: ""
         GPA: "4.8 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          Extracurricular Activities.
+          - Basketball
+          - Football.
 
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit.
