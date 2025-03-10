@@ -161,28 +161,28 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/.头像.png"
+    image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I am a university student living in Santa Clara, CA, with a background in computer science and mathematics, and I have a strong passion for analog circuit design (analog electronics). I am particularly interested in hardware technology, especially in the field of analog circuits and their applications. I am currently pursuing a degree in Electrical and Computer Engineering, and I plan to work in hardware development in the future.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Recently, I have been working on projects and studying topics related to analog circuits and embedded systems, exploring how hardware can be used to solve real-world problems.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "CAD"
+        - "LTSpice"
+        - "C++"
+        - "MATLAB"
+        - "Verilog"
+        - "Assembly"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Hardware Engineer Intern"
+      - job: "Hardware Validation Engineer Intern"
         company: "Lenovo"
         companyUrl: "https://www.lenovo.com/us/en/"
         date: "Jun 2024 - Sep 2024"
