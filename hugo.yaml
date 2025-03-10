@@ -190,7 +190,11 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I worked as a Hardware Engineer Intern last summer in Bejing, China."
+        content: |
+          I worked as a Hardware Validation Engineer Intern in Beijing during summer 2024.
+
+          - Collected and analyzed hardware validation data, using MATLAB and Python to automate reporting and improve efficiency..
+          
 
       - job: "Apprentice Intern"
         company: "Alfa Laval"
@@ -198,12 +202,12 @@ params:
         date: "Jun 2023 - Sep 2023"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.alfalaval.cn"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I worked as an apprentice engineer intern at Alfa Laval in Shanghai, China.
+          I worked as an apprentice engineer intern at Alfa Laval after I graduated from high school in Shanghai, China.
 
           - Gained hands-on experience in basic circuit assembly and testing, learning to work with resistors, capacitors, MOSFETs, and other analog components under the guidance of senior engineers.
           - Assisted in functional verification of electrical systems, following test procedures to ensure proper circuit operation and documenting test results.
@@ -223,24 +227,21 @@ params:
           - Grade students' assignments.
           - Give students suggestions on their homework.
 
-      - job: "Frontend Developer"
-        company: "Stealth Startup"
+      - job: ""
+        company: ""
         companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+        date: ""
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+         
 
-          - Established a company website using JavaScript, achieving a 30% increase in page load speed through advanced optimization techniques, including code splitting and lazy loading.
-          - Created a frontend design for a product.
-
-      - job: "Research Assistant"
-        company: "Santa Clara University"
+      - job: ""
+        company: ""
         companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        date: ""
+        content: ""
 
   # Education
   education:
@@ -251,13 +252,13 @@ params:
       - title: "Bachelor of Science in Electrical and Computer Engineering"
         school:
           name: "Santa Clara University, CA"
-          url: "https://example.org"
+          url: "https://www.scu.edu"
         date: "2023 - present"
         GPA: "3.92 out of 4.00"
         content: |-
           Honors & Awards
-            - Alpha Sigma Nu - the honor society of Jesuit colleges and universities.
-            - Tau Beta PI Member.
+            - Alpha Sigma Nu - Jesuit Scholarshiop and Service Honors.
+            - Tau Beta PI - Engineering Honors.
       - title: "High School"
         school:
           name: "Chengdu Experimental Foreign Languages School"
@@ -269,9 +270,7 @@ params:
           - Basketball
           - Football.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+       
         featuredLink:
           enable: true
           name: "My academic record"
@@ -280,7 +279,7 @@ params:
         school:
           name: "Chengdu Shuhan Foreign Language Experimental Primary School"
           url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+        GPA: "4.5 out of 5.0"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -290,8 +289,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
+      - title: Optimized Scheduling of Off-Grid Wind Power Hydrogen Production System Considering Battery and Electrolyzer Degradation
+        content: Publication on EI Index.
         url: https://example.com
         image: /images/achievement.jpg
       - title: Facebook Hackathon Winner
